@@ -536,3 +536,5 @@ input.error ,textarea.error { border-bottom-color:#C30; }
 .social li a { background:#eee; background-color:rgba(0,0,0,.1); }
 .social li a { color:#333; }
 .social li a:hover { color:#fff; }
+
+.item.coding img{ margin: 0 auto; }
